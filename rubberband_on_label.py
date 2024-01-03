@@ -16,7 +16,7 @@ class MyApp(QMainWindow):
         # self.tmp = ()
 
         # Load ui file from PyQt5 designer
-        uic.loadUi('test.ui', self)
+        uic.loadUi('window2.ui', self)
 
         self.frame_number = 0
 

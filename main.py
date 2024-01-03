@@ -7,7 +7,6 @@ from PyQt5 import QtWidgets, QtCore
 
 import sys
 import rubberband_on_label
-import cv2
 
 
 class MainWindow(QMainWindow):
